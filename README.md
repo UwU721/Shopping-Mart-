@@ -1,2 +1,0 @@
-# Shopping-Mart-
-Shopping Website 
